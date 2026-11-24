@@ -1,0 +1,4 @@
+{
+  "_comment": "Approved setpoints from change management. A live value that differs from this without an approved change is a security/configuration event.",
+  "curtailment_setpoint_kw": {"WTG01": 3600, "WTG02": 3600, "WTG03": 3600}
+}

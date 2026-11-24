@@ -1,0 +1,5 @@
+id,priority,type,asset,opened,closed,detail
+INC-001,P2,GEARBOX_TEMP,WTG02,10:22:01,,gearbox 85.7 C > 85.0 C
+INC-002,P2,STALE_DATA,WTG03,10:22:02,,heartbeat frozen at 89 for 5 polls
+INC-003,P1,CONFIG_CHANGE,WTG01,10:22:23,,"curtailment setpoint 1200 kW, approved 3600 kW, no approved change"
+INC-004,P1,COMM_LOSS,SITE,10:22:52,10:23:03,no answer from gateway for 3 polls
