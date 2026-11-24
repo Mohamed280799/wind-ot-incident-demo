@@ -1,13 +1,13 @@
 # Incident report – simulated wind site
 
-Generated 2026-11-24 10:23
+Generated 2026-11-24 10:36
 
 | ID | Prio | Type | Asset | Opened | Closed | Detail |
 |---|---|---|---|---|---|---|
-| INC-001 | P2 | GEARBOX_TEMP | WTG02 | 10:22:01 | OPEN | gearbox 85.7 C > 85.0 C |
-| INC-002 | P2 | STALE_DATA | WTG03 | 10:22:02 | OPEN | heartbeat frozen at 89 for 5 polls |
-| INC-003 | P1 | CONFIG_CHANGE | WTG01 | 10:22:23 | OPEN | curtailment setpoint 1200 kW, approved 3600 kW, no approved change |
-| INC-004 | P1 | COMM_LOSS | SITE | 10:22:52 | 10:23:03 | no answer from gateway for 3 polls |
+| INC-001 | P2 | GEARBOX_TEMP | WTG02 | 10:34:43 | OPEN | gearbox 85.3 C > 85.0 C |
+| INC-002 | P2 | STALE_DATA | WTG03 | 10:34:45 | OPEN | heartbeat frozen at 89 for 5 polls |
+| INC-003 | P1 | CONFIG_CHANGE | WTG01 | 10:35:05 | OPEN | curtailment setpoint 1200 kW, approved 3600 kW, no approved change |
+| INC-004 | P1 | COMM_LOSS | SITE | 10:35:35 | 10:35:46 | no answer from gateway for 3 polls |
 
 ## Runbooks for the incident types seen
 
